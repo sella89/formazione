@@ -1,0 +1,33 @@
+
+k	java:S106/"9Replace this use of System.out or System.err by a logger.(ğÖ8º¸¬³/H»RMAJORZ
+CODE_SMELL
+k	java:S106$"9Replace this use of System.out or System.err by a logger.(©Øğ¬8º¸¬³/H¼RMAJORZ
+CODE_SMELL
+j
+java:S1144:"2Remove this unused private "findCheapest2" method.(°¨Ê¾úÿÿÿÿ8êÀÓª³/H½RMAJORZ
+CODE_SMELL
+k	java:S106&"9Replace this use of System.out or System.err by a logger.(½Á¡Ä8º¸¬³/H¾RMAJORZ
+CODE_SMELL
+„
+java:S3457/"Q%n should be used in place of \n to produce the platform-specific line separator.(ğÖ8º¸¬³/H¿RMAJORZ
+CODE_SMELL
+p	java:S106Z"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8º¸¬³/HÀRMAJORZ
+CODE_SMELL
+d
+java:S1144>"1Remove this unused private "getTotalCost" method.(»š²8Ÿ‘©¥³/HÁRMAJORZ
+CODE_SMELL
+p	java:S106_"9Replace this use of System.out or System.err by a logger.(ª’É«üÿÿÿÿ8º¸¬³/HÂRMAJORZ
+CODE_SMELL
+R
+java:S2111"!Use "BigDecimal.valueOf" instead.( ¸”ıÿÿÿÿ8¥»û­³/HÃRMAJORZBUG
+p	java:S106["9Replace this use of System.out or System.err by a logger.(»†Óúüÿÿÿÿ8¥»û­³/HÄRMAJORZ
+CODE_SMELL
+p	java:S106^"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8¥»û­³/HÅRMAJORZ
+CODE_SMELL
+p	java:S106d"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8¥»û­³/HÆRMAJORZ
+CODE_SMELL
+k	java:S106e"9Replace this use of System.out or System.err by a logger.(»ÿÏÒ8¥»û­³/HÇRMAJORZ
+CODE_SMELL
+e
+java:S11444"2Remove this unused private "findCheapest1" method.(ßÜßÙ8¥»û­³/HÈRMAJORZ
+CODE_SMELL

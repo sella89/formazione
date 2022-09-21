@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="03/demos/pluralsight-using-annotations-java-module3-end/pluralsight-using-annotations-java-module3-end/src"/>
+	<classpathentry kind="src" path="04/demos/pluralsight-using-annotations-java-module4-end/pluralsight-using-annotations-java-module4-end/src"/>
+	<classpathentry kind="src" path="04/demos/pluralsight-using-annotations-java-module4-start/pluralsight-using-annotations-java-module4-start/src"/>
+	<classpathentry kind="src" path="05/demos/pluralsight-using-annotations-java-module5-end/pluralsight-using-annotations-java-module5-end/src"/>
+	<classpathentry kind="src" path="05/demos/pluralsight-using-annotations-java-module5-start/pluralsight-using-annotations-java-module5-start/src"/>
+	<classpathentry kind="src" path="06/demos/pluralsight-using-annotations-java-module6-end/pluralsight-using-annotations-java-module6-end/src"/>
+	<classpathentry kind="src" path="06/demos/pluralsight-using-annotations-java-module6-start/pluralsight-using-annotations-java-module6-start/src"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

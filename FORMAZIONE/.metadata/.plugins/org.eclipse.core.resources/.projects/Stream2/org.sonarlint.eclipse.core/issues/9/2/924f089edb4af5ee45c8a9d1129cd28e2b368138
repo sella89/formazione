@@ -1,0 +1,26 @@
+
+a
+java:S1854	"5Remove this useless assignment to local variable "b".(ûÅâ’HÏRMAJORZ
+CODE_SMELL
+i	java:S106"9Replace this use of System.out or System.err by a logger.(Ú¹œÞýÿÿÿÿHÐRMAJORZ
+CODE_SMELL
+d	java:S106"9Replace this use of System.out or System.err by a logger.(†ªÇÁHÑRMAJORZ
+CODE_SMELL
+d	java:S106"9Replace this use of System.out or System.err by a logger.(äì¯çHÒRMAJORZ
+CODE_SMELL
+d	java:S106"9Replace this use of System.out or System.err by a logger.(ÓÚ¡áHÓRMAJORZ
+CODE_SMELL
+i	java:S106"9Replace this use of System.out or System.err by a logger.(ñìýîûÿÿÿÿHÔRMAJORZ
+CODE_SMELL
+i	java:S106"9Replace this use of System.out or System.err by a logger.(ßÄÂ§ùÿÿÿÿHÕRMAJORZ
+CODE_SMELL
+F
+java:S1220""Move this file to a named package.HÖRMINORZ
+CODE_SMELL
+R
+java:S1481	"&Remove this unused "b" local variable.(ûÅâ’H×RMINORZ
+CODE_SMELL
+c	java:S106"9Replace this use of System.out or System.err by a logger.(ÀÂ¤HØRMAJORZ
+CODE_SMELL
+i	java:S106"9Replace this use of System.out or System.err by a logger.(Ã´¸úùÿÿÿÿHÙRMAJORZ
+CODE_SMELL

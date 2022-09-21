@@ -1,0 +1,10 @@
+package testFunctionalInterface;
+
+public class testRetry {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

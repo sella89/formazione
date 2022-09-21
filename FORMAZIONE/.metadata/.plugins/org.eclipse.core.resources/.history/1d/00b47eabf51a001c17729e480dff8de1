@@ -1,0 +1,24 @@
+package testFunctionalInterface;
+
+@FunctionalInterface
+public interface RetryRun {
+	
+	void apply() throws Exception;
+	
+	static boolean withRetryLogic (int maxValueRetry, int valueToSleep,RetryRun run) throws Throwable {
+		int count = 0;
+		while(count<=maxValueRetry) {
+			try {
+				run.apply();
+				return true;
+			} catch (Exception e) {
+				count++;
+				Thread.sleep(valueToSleep);
+				throw e.getCause();
+			}
+			
+		}
+		return false;
+		
+	}
+}

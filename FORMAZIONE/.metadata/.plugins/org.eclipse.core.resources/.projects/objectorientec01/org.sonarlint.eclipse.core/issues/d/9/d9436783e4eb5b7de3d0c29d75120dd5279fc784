@@ -1,0 +1,15 @@
+
+Ђ
+java:S3008"ORename this field "ZERO" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ВнЧХыяяяяHКRMINORZ
+CODE_SMELL
+Љ
+java:S1210#"YOverride "equals(Object obj)" to comply with the contract of the "compareTo(T o)" method.(ЭЎЕ®ыяяяяHЛRMINORZ
+CODE_SMELL
+K
+java:S2111"!Use "BigDecimal.valueOf" instead.(е®яйыяяяяHМRMAJORZBUG
+Ѓ
+java:S1104"PMake ZERO a static final constant or non-public and provide accessors if needed.(ВнЧХыяяяяHНRMINORZ
+CODE_SMELL
+[
+java:S1444"*Make this "public static ZERO" field final(ВнЧХыяяяяHОRMINORZ
+CODE_SMELL

@@ -1,0 +1,27 @@
+
+n	java:S125o"<This block of commented-out lines of code should be removed.(ÂÁ°8ÇÿâØ²/HÙ	RMAJORZ
+CODE_SMELL
+i	java:S106="9Replace this use of System.out or System.err by a logger.(ô––»úÿÿÿÿH·	RMAJORZ
+CODE_SMELL
+i	java:S106)"9Replace this use of System.out or System.err by a logger.(ô––»úÿÿÿÿH¨	RMAJORZ
+CODE_SMELL
+œ
+java:S1192)"hDefine a constant instead of duplicating this literal "Cannot add age restricted item to order" 3 times.(ô––»úÿÿÿÿH»	RCRITICALZ
+CODE_SMELL
+€
+java:S37764"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(ØŒkH©	RCRITICALZ
+CODE_SMELL
+`
+java:S1066("/Merge this if statement with the enclosing one.(‘ÓˆüÿÿÿÿH¿	RMAJORZ
+CODE_SMELL
+i	java:S106D"9Replace this use of System.out or System.err by a logger.(ô––»úÿÿÿÿH¸	RMAJORZ
+CODE_SMELL
+d	java:S106P"9Replace this use of System.out or System.err by a logger.(Ï¹H¹	RMAJORZ
+CODE_SMELL
+k	java:S106["9Replace this use of System.out or System.err by a logger.(³ì”Ó8÷Ã€Ù²/H¯
+RMAJORZ
+CODE_SMELL
+g
+java:S1066Z"/Merge this if statement with the enclosing one.(æŠÙËùÿÿÿÿ8÷Ã€Ù²/H°
+RMAJORZ
+CODE_SMELL

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Extract method &apos;private static void extracted()&apos; from &apos;PlayingWithExecutorAndRunnables.main()&apos; to &apos;PlayingWithExecutorAndRunnables&apos;&#x0D;&#x0A;- Original project: &apos;Executor2&apos;&#x0D;&#x0A;- Method name: &apos;extracted&apos;&#x0D;&#x0A;- Destination type: &apos;PlayingWithExecutorAndRunnables&apos;&#x0D;&#x0A;- Declared visibility: &apos;private&apos;" comments="false" description="Extract method &apos;extracted&apos;" destination="0" exceptions="false" flags="786434" id="org.eclipse.jdt.ui.extract.method" input="/src&lt;{PlayingWithExecutorAndRunnables.java" name="extracted" replace="false" selection="292 248" stamp="1627037123372" version="1.0" visibility="2"/>
+</session>

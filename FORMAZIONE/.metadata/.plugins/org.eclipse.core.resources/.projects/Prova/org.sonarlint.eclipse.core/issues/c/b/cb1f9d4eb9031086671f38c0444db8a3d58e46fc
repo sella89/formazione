@@ -1,0 +1,17 @@
+
+s	java:S125"<This block of commented-out lines of code should be removed.(ä‚»…ıÿÿÿÿ8êüß·±/Hˆ	RMAJORZ
+CODE_SMELL
+g
+java:S3740?"/Provide the parametrized type for this generic.(Ò¿óÑÿÿÿÿÿ8ÙĞÛ³±/H™	RMAJORZ
+CODE_SMELL
+j	java:S106"9Replace this use of System.out or System.err by a logger.(ƒÚáB8õÅ­³±/Hš	RMAJORZ
+CODE_SMELL
+i
+java:S1135"2Complete the task associated to this TODO comment.(ÕÌ®şÿÿÿÿ8êüß·±/H›	RINFOZ
+CODE_SMELL
+d
+java:S1068",Remove this unused "metadata" private field.(÷¨ÿ‚üÿÿÿÿ8êüß·±/Hœ	RMAJORZ
+CODE_SMELL
+F
+java:S1220""Move this file to a named package.H	RMINORZ
+CODE_SMELL

@@ -1,0 +1,5 @@
+package testFunctionalInterface;
+
+public interface RetryRun {
+
+}

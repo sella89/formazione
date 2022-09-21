@@ -1,0 +1,14 @@
+
+i	java:S106"9Replace this use of System.out or System.err by a logger.(Ùú„ñøÿÿÿÿHÉRMAJORZ
+CODE_SMELL
+d	java:S106"9Replace this use of System.out or System.err by a logger.(šÈŞ§HÊRMAJORZ
+CODE_SMELL
+q	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(É¶¸‰HËRMAJORZ
+CODE_SMELL
+Š	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÌëÆ’ûÿÿÿÿHÌRMINORZ
+CODE_SMELL
+q	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(©¢àHÍRMAJORZ
+CODE_SMELL
+q	java:S112
+"FDefine and throw a dedicated exception instead of using a generic one.(ŸÇºHÎRMAJORZ
+CODE_SMELL

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true">
+        <processor name="org.checkerframework.checker.nullness.NullnessChecker" />
+        <processorPath useClasspath="false">
+          <entry name="$PROJECT_DIR$/../../../../checker-framework-3.10.0/checker/dist/checker.jar" />
+        </processorPath>
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>
